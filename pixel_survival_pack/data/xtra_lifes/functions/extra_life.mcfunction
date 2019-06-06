@@ -1,6 +1,6 @@
 # Searching for craftable:
 tag @e[type=item,nbt={Item:{id:"minecraft:golden_apple",Count:1b}}] add extra_life_recipe_1
-tag @e[type=item,nbt={Item:{id:"minecraft:emerald",Count:8b}}] add extra_life_recipe_2
+tag @e[type=item,nbt={Item:{id:"minecraft:emerald",Count:32b}}] add extra_life_recipe_2
 
 # Crafting Recipe:
 
